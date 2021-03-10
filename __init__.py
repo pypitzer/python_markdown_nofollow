@@ -1,0 +1,2 @@
+from python_markdown_nofollow.nofollow import NofollowExtension
+from python_markdown_nofollow.nofollow import makeExtension
