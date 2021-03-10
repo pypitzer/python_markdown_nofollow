@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name="pymd_nofollow",
+    name="python_markdown_nofollow",
     version='1.0',
-    py_modules=['pymd_nofollow'],
+    py_modules=['python_markdown_nofollow'],
     install_requires=['markdown>=3.0'],
     description='a Python Markdown plugin used to add rel="external nofollow" '
                 'and target="_blank" attribute to all <a> tags',
