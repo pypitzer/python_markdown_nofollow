@@ -20,7 +20,7 @@ pip install -i https://pypi.org/simple/ python-markdown-nofollow
 
 ## Usage
 
-this plugin is register to `python-markdown` (version 3), so after installation, you just need to specify the name of this plugin:
+this plugin is registered to `python-markdown` (version 3), so after installation, you just need to specify the name of this plugin:
 
 ```python
 import markdown
