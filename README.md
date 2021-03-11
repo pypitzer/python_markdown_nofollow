@@ -32,3 +32,6 @@ def std_markdown(value):
     ])
 ```
 
+
+package location: https://pypi.org/project/python-markdown-nofollow/0.0.1/
+
