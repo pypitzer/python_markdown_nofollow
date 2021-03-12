@@ -1,5 +1,8 @@
 # python_markdown_nofollow
 
+## about
+a Python Markdown plugin used to add rel="external nofollow" and target="_blank" attribute to all <a> tags, can be uesed in django etc.
+
 ## Install
 
 simply use this command to install 
