@@ -38,6 +38,6 @@ def std_markdown(value):
 
 package location: https://pypi.org/project/python-markdown-nofollow/0.0.1/
 
-a more fundmental tutorial can be found here:[Adding rel="nofollow" and target="_blank" attributes to links in django project](https://stdworkflow.com/11/adding-rel-nofollow-and-target-blank-attributes-to-links-in-django-project/)
+a more fundmental tutorial can be found here:[Adding rel="nofollow" and target="_blank" attributes to links in django project](https://stdworkflow.com/11/adding-rel-nofollow-and-target-blank-attributes-to-links-in-django-project)
 
 
